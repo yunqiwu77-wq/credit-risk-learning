@@ -21,5 +21,7 @@ This repository contains my learning notes and projects on Credit Risk Analytics
 - [ ] Day 03 - Data Visualization
 - [ ] Day 04 - Data Cleaning
 
+## Projects
+
 ## Author 
 Yunqi WU
